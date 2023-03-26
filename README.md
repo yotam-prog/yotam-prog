@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a Senior Systeam Administrator & Devops Enginerr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Israel.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Systeam Administrator & Devops  Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
