@@ -29,7 +29,7 @@ I am a Senior Systeam Administrator & Devops Enginerr <img src="https://media.gi
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: AWS Certified Solutions Architect - Associate.
+- :zap: AWS Certified Solutions Architect.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yotam-aloni/)
 
