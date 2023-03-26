@@ -41,6 +41,6 @@ I am a Senior Systeam Administrator & Devops Enginerr <img src="https://media.gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="" **alt="" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;
-                                                                                                                                        
+     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="" **alt="" width="40" height="40"/>&nbsp;                                                                                                                                   
                                                                                                                                         
 </div>
