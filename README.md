@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-I am a Devops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+I am a Senior Systeam Administrator Devops Enginerr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Israel.
 
 
 ### :hammer_and_wrench: Languages and Tools :
