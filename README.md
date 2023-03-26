@@ -8,6 +8,11 @@
 <!--
 **yotam-prog/yotam-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### :man_technologist: About Me :
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,9 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :man_technologist: About Me :
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ### :hammer_and_wrench: Languages and Tools :
 
